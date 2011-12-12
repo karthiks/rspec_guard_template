@@ -1,3 +1,0 @@
-class Temp
-  #TODO
-end

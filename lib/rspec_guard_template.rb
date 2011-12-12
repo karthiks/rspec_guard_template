@@ -1,3 +1,3 @@
-class RspecGuardTemplate
+class RSpecGuardTemplate
   # Your code goes here...
 end
