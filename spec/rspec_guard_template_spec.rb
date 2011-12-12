@@ -1,5 +1,7 @@
 require 'rspec_guard_template'
 
 describe RSpecGuardTemplate do
-  it "should do nothing"
+  it "should pass :-)" do
+    #
+  end
 end
