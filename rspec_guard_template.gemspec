@@ -1,10 +1,8 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "rspec_guard_template/version"
 
 Gem::Specification.new do |s|
   s.name        = "rspec_guard_template"
-  s.version     = RspecGuardTemplate::VERSION
   s.authors     = ["Karthik Sirasanagandla"]
   s.email       = ["karthiks@thoughtworks.com"]
   s.homepage    = ""

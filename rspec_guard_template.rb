@@ -1,0 +1,3 @@
+class RspecGuardTemplate
+  # Your code goes here...
+end
